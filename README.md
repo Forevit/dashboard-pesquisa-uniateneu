@@ -148,8 +148,16 @@ A solução se enquadra na vertente de **Análise e Ciência de Dados**, aplican
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Carlos Eduardo Rodrigues Ferreira**  
-Engenharia de Computação — 6º semestre · UniAteneu  
+Engenharia da Computação — 6º semestre · UniAteneu  
 Técnico de Suporte de TI · Paerro Tecnologia
+
+**Matheus de Sousa da Silva**
+Analise e Desenvolvimento de Sistemas · UniAteneu
+Assistente de Ambiente Virtual · UniAteneu
+
+**Caio de Freitas Brandão**
+Engenharia da Computação - 6º semestre · UniAnteneu
+
