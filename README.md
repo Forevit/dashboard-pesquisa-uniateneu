@@ -158,6 +158,8 @@ Técnico de Suporte de TI · Paerro Tecnologia
 Analise e Desenvolvimento de Sistemas · UniAteneu
 Assistente de Ambiente Virtual · UniAteneu
 
-**Caio de Freitas Brandão**
+
+**Caio de Freitas Brandão** 
 Engenharia da Computação - 6º semestre · UniAnteneu
+
 
