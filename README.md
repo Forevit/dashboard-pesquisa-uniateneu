@@ -151,15 +151,14 @@ A solução se enquadra na vertente de **Análise e Ciência de Dados**, aplican
 ## 👤 Autores
 
 **Carlos Eduardo Rodrigues Ferreira**  
-Engenharia da Computação — 6º semestre · UniAteneu  
+Engenharia de Computação — 6º semestre · UniAteneu  
 Técnico de Suporte de TI · Paerro Tecnologia
 
-**Matheus de Sousa da Silva**
-Analise e Desenvolvimento de Sistemas · UniAteneu
+**Matheus de Sousa da Silva**  
+Análise e Desenvolvimento de Sistemas · UniAteneu  
 Assistente de Ambiente Virtual · UniAteneu
 
-
-**Caio de Freitas Brandão** 
-Engenharia da Computação - 6º semestre · UniAnteneu
+**Caio de Freitas Brandão**  
+Engenharia de Computação — 6º semestre · UniAteneu
 
 
