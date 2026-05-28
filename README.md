@@ -91,12 +91,8 @@ O projeto foi criado com foco em:
 ```bash
 Dashboard-UniAteneu/
 │
-├── data/                  # Arquivos CSV e bases
-├── assets/                # Imagens e recursos visuais
-├── pages/                 # Páginas do Streamlit
-├── database/              # Scripts SQL
-├── utils/                 # Funções auxiliares
 ├── Analise.py             # Dashboard principal
+├── BaseTratada.csv
 ├── requirements.txt
 └── README.md
 ```
